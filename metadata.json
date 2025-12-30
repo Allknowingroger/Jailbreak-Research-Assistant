@@ -1,0 +1,5 @@
+{
+  "name": "Jailbreak Research Assistant",
+  "description": "A professional tool for AI safety researchers to draft white papers on LLM jailbreaks like DAN, featuring search-grounded analysis and markdown editing.",
+  "requestFramePermissions": []
+}
